@@ -1,0 +1,19 @@
+{
+  "name": "assignmentexpressnodemongo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Atul Abhishek\"",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.1.3",
+    "express": "^4.16.3",
+    "mongodb": "^3.1.4",
+    "path": "^0.12.7",
+    "pug": "^2.0.3"
+  }
+}
